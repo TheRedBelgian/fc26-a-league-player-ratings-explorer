@@ -1,0 +1,16 @@
+ID,Rank,player,age,nation,league,team,position,overall_rating,pace,shooting,passing,dribbling,defending,physical,weak_foot,skill_moves,preferred_foot,alternative_positions,age_group,outfield_attribute_average
+273526,13170,Panagiotis Kikianis,21,Australia,A-League,Adelaide United,CB,63,58,31,46,48,62,72,2,2,Right,,21 or under,52.8
+264065,13388,Alessandro Lopane,21,Australia,A-League,Melbourne City,CDM,62,69,52,58,65,58,56,2,2,Right,"['RM', 'LM', 'RW']",21 or under,59.7
+260533,13499,Joshua Rawlins,21,Australia,A-League,Melb. Victory,RB,62,72,40,54,59,56,69,3,2,Right,"['CB', 'RM']",21 or under,58.3
+278838,14175,Dylan Scicluna,21,Malta,A-League,WS Wanderers,CM,61,75,43,61,63,57,54,4,2,Right,"['CDM', 'RB', 'CAM']",21 or under,58.8
+272571,14869,Luka Jovanović,20,Australia,A-League,Adelaide United,ST,60,75,58,50,61,32,67,4,2,Right,"['CAM', 'CM']",21 or under,57.2
+262557,15062,Max Caputo,20,Australia,A-League,Melbourne City,ST,60,69,58,50,55,30,63,3,2,Right,,21 or under,54.2
+260630,14772,Jonny Yull,21,Australia,A-League,Adelaide United,CM,60,69,56,59,65,49,58,4,3,Right,"['CDM', 'RM', 'CAM']",21 or under,59.3
+279201,14853,Matt Sheridan,21,New Zealand,A-League,Well. Phoenix,RB,60,74,37,54,53,54,72,2,2,Right,"['CM', 'CB']",21 or under,57.3
+75145,15704,Lucas Herrington,18,Australia,A-League,Brisbane Roar,CB,59,65,32,42,45,57,66,3,2,Right,,21 or under,51.2
+277571,15591,Dylan Peraić-Cullen,19,Australia,A-League,Central Coast,GK,59,61,55,54,61,32,56,2,1,Right,,21 or under,
+276627,15360,Franco Lino,20,Australia,A-League,Melb. Victory,LB,59,88,42,41,56,51,68,2,2,Left,"['CB', 'LM']",21 or under,57.7
+275267,15398,Miguel Di Pizio,20,Australia,A-League,Central Coast,CAM,59,68,55,56,61,43,58,3,3,Left,"['RM', 'LM', 'CM']",21 or under,56.8
+276461,15486,Lukas Kelly-Heald,21,New Zealand,A-League,Well. Phoenix,LB,59,63,41,51,53,56,66,3,2,Left,"['CM', 'LM', 'CDM']",21 or under,55.0
+77175,15955,Harry Crawford,19,Australia,A-League,Adelaide United,RM,58,72,56,52,59,46,40,3,2,Right,"['RB', 'RW']",21 or under,54.2
+75140,15898,Jacob Brazete,20,Australia,A-League,Brisbane Roar,LM,58,76,51,53,61,33,56,3,2,Right,"['CM', 'LW']",21 or under,55.0

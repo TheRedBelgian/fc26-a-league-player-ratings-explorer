@@ -1,0 +1,248 @@
+ID,Rank,player,age,nation,league,team,position,overall_rating,pace,shooting,passing,dribbling,defending,physical,weak_foot,skill_moves,preferred_foot,alternative_positions,age_group,outfield_attribute_average
+209888,2966,Craig Goodwin,34,Australia,A-League,Adelaide United,LM,73,81,74,72,70,59,73,3,3,Left,"['RM', 'LW']",30+,71.5
+221587,3187,Joe Lolley,33,England,A-League,Sydney FC,RM,73,74,73,71,73,50,63,3,3,Left,"['ST', 'RW']",30+,67.3
+209210,4999,Alex Grant,32,Australia,A-League,Sydney FC,CB,71,53,46,54,56,69,83,3,2,Left,,30+,60.2
+195033,5111,Mathew Leckie,35,Australia,A-League,Melbourne City,CM,70,79,68,67,74,63,76,4,3,Right,"['LM', 'CAM', 'CDM']",30+,71.2
+216247,5147,Marcel Tisserand,33,Congo DR,A-League,Sydney FC,CB,70,72,58,66,66,68,80,3,3,Right,,30+,68.3
+237333,5251,Louis Verstraete,26,Belgium,A-League,Auckland FC,CDM,70,65,58,65,67,64,82,5,3,Right,['CM'],26-29,66.8
+220708,5262,Brandon Borrello,30,Australia,A-League,WS Wanderers,ST,70,73,70,66,71,43,77,4,3,Right,"['RM', 'CAM']",30+,66.7
+208520,5302,Hiroki Sakai,35,Japan,A-League,Auckland FC,RB,70,72,53,65,64,66,77,3,2,Right,['CB'],30+,66.2
+209886,6069,Anthony Caceres,33,Australia,A-League,Macarthur FC,CAM,69,69,64,69,71,58,75,4,3,Right,"['CDM', 'LM', 'CM']",30+,67.7
+239458,6148,Bozhidar Kraev,28,Bulgaria,A-League,WS Wanderers,LM,69,71,67,65,70,48,78,4,3,Right,"['CAM', 'RM', 'LW']",26-29,66.5
+237268,6251,Francis de Vries,31,New Zealand,A-League,Auckland FC,LB,69,64,53,67,62,63,83,3,2,Left,['LM'],30+,65.3
+202676,6299,Adam Taggart,32,Australia,A-League,Perth Glory,ST,69,80,68,63,68,38,72,3,3,Right,,30+,64.8
+252700,6597,Kai Trewin,24,Australia,A-League,Melbourne City,CB,69,66,43,58,59,69,79,4,2,Right,"['CM', 'CDM']",22-25,62.3
+232861,6663,Kota Mizunuma,36,Japan,A-League,Newcastle Jets,RM,69,66,62,71,69,39,63,4,3,Right,['RW'],30+,61.7
+241861,7097,Nathaniel Atkinson,26,Australia,A-League,Melbourne City,RB,68,76,53,62,72,59,77,4,3,Right,['CM'],26-29,66.5
+180903,7114,Jay O'Shea,37,Republic of Ireland,A-League,Brisbane Roar,CM,68,57,63,68,70,62,77,4,3,Right,"['CDM', 'CAM']",30+,66.2
+210484,7153,Andreas Kuen,31,Austria,A-League,Melbourne City,LM,68,70,64,67,66,59,68,4,3,Left,"['CAM', 'LW']",30+,65.7
+217439,7184,Brian Kaltak,32,Vanuatu,A-League,Perth Glory,CB,68,82,47,55,58,64,86,2,2,Right,,30+,65.3
+182091,7198,Kosta Barbarouses,36,New Zealand,A-League,WS Wanderers,ST,68,78,69,58,69,40,77,3,3,Right,['CAM'],30+,65.2
+232162,7218,Steven Ugarković,31,Australia,A-League,WS Wanderers,CDM,68,62,61,62,66,63,76,3,3,Right,"['CM', 'RB']",30+,65.0
+243966,7476,Guillermo May,28,Uruguay,A-League,Auckland FC,ST,68,72,68,56,70,34,77,4,2,Left,"['CAM', 'RM']",26-29,62.8
+203423,7511,Lawrence Thomas,33,Australia,A-League,WS Wanderers,GK,68,70,67,69,66,36,67,2,1,Right,,30+,
+202157,8175,Aziz Behich,35,Australia,A-League,Melbourne City,LB,67,74,60,65,69,61,71,4,3,Left,['LM'],30+,66.7
+219392,8205,Alex Rufer,29,New Zealand,A-League,Well. Phoenix,CDM,67,64,59,65,67,63,78,3,3,Right,"['CM', 'CB']",26-29,66.0
+252974,8516,Reno Piscopo,27,Australia,A-League,Melb. Victory,LM,67,80,63,63,69,39,62,2,4,Right,"['CAM', 'ST', 'LW']",26-29,62.7
+193302,8528,Filip Kurto,34,Poland,A-League,Macarthur FC,GK,67,67,65,60,68,49,66,3,1,Right,,30+,
+199159,8590,Luke Brattan,36,Australia,A-League,Macarthur FC,CDM,67,43,59,68,65,61,75,3,3,Right,['CM'],30+,61.8
+228416,8649,Germán Ferreyra,30,Argentina,A-League,Melbourne City,CB,67,71,46,57,55,66,74,3,2,Right,['RB'],30+,61.5
+199000,8758,Trent Sainsbury,34,Australia,A-League,Central Coast,CB,67,64,46,56,56,67,74,3,2,Right,,30+,60.5
+254143,8827,Nando Pijnaker,27,New Zealand,A-League,Auckland FC,CB,67,60,48,54,53,65,79,3,2,Left,,26-29,59.8
+259723,8951,Dan Hall,26,Australia,A-League,Auckland FC,CB,67,81,29,46,55,64,77,2,2,Right,,26-29,58.7
+216193,9163,Bart Vriends,34,Holland,A-League,Adelaide United,CB,67,51,32,48,48,66,80,3,2,Right,,30+,54.2
+179789,9171,Damien Da Silva,37,France,A-League,Macarthur FC,CB,67,37,37,55,48,67,78,4,2,Right,,30+,53.7
+193143,9203,Roderick Miranda,35,Portugal,A-League,Melb. Victory,CB,67,32,35,51,47,66,83,2,2,Right,,30+,52.3
+240262,9251,Jake Brimmer,27,Malta,A-League,Auckland FC,CM,66,73,61,68,69,58,67,3,2,Right,"['CAM', 'CDM']",26-29,66.0
+192241,9309,Rhyan Grant,35,Australia,A-League,Sydney FC,RB,66,66,56,60,62,63,81,3,3,Right,"['CB', 'RM']",30+,64.7
+204931,9331,Joshua Smits,33,Holland,A-League,Adelaide United,GK,66,67,64,66,68,56,65,1,1,Right,,30+,
+264721,9433,Henry Hore,26,Australia,A-League,Brisbane Roar,LM,66,70,62,62,68,51,66,4,3,Right,"['CAM', 'ST', 'LW']",26-29,63.2
+197831,9525,Jason Davidson,34,Australia,A-League,Melb. Victory,CB,66,60,51,62,64,66,70,2,2,Left,['LB'],30+,62.2
+240096,9636,Lachlan Brook,25,Australia,A-League,Auckland FC,RM,66,84,61,58,68,36,61,2,3,Left,['RW'],22-25,61.3
+263982,9877,Eli Adams,24,Australia,A-League,Newcastle Jets,CAM,66,74,64,58,70,32,59,3,3,Left,"['ST', 'RM', 'CM']",22-25,59.5
+189155,9887,Samuel Souprayen,37,France,A-League,Melbourne City,CB,66,57,36,59,62,64,78,3,2,Left,,30+,59.3
+228210,10285,Lachlan Jackson,31,Australia,A-League,Melb. Victory,CB,66,44,26,42,45,65,78,3,2,Left,['LB'],30+,50.0
+210826,10307,Felipe Gallegos,34,Chile,A-League,Auckland FC,CM,65,77,56,63,68,59,73,3,3,Left,"['CDM', 'CAM']",30+,66.0
+212075,10321,Andrew Nabbout,33,Australia,A-League,Melbourne City,RM,65,78,65,61,67,47,73,3,3,Right,"['LM', 'RW']",30+,65.2
+261244,10349,Keegan Jelacic,23,Australia,A-League,Melb. Victory,LM,65,76,57,60,66,54,73,4,3,Right,"['RM', 'CM', 'LW']",22-25,64.3
+247336,10402,Alfie McCalmont,26,Northern Ireland,A-League,Central Coast,CM,65,64,58,64,66,59,69,3,2,Right,['CDM'],26-29,63.3
+259767,10406,Thomas Aquilina,25,Australia,A-League,Newcastle Jets,RM,65,83,46,59,64,56,72,4,3,Right,"['RB', 'CB']",22-25,63.3
+259726,10414,Lachlan Rose,26,Australia,A-League,Newcastle Jets,ST,65,82,62,55,63,46,71,3,3,Right,"['RM', 'RW']",26-29,63.2
+258339,10567,Georgios Vrakas,24,Greece,A-League,Brisbane Roar,CAM,65,74,60,61,69,44,60,3,3,Right,"['LW', 'CM']",22-25,61.3
+262039,10586,Nishan Velupillay,24,Australia,A-League,Melb. Victory,LM,65,94,56,55,70,35,57,3,3,Right,"['RM', 'LW']",22-25,61.2
+232250,10619,Luke Amos,29,England,A-League,Perth Glory,CM,65,61,54,63,65,61,61,4,3,Right,['CDM'],26-29,60.8
+266740,10645,Ethan Alagich,22,Australia,A-League,Adelaide United,CDM,65,66,50,59,62,61,66,3,3,Left,"['CM', 'CAM']",22-25,60.7
+267599,10753,Patrick Beach,22,Australia,A-League,Melbourne City,GK,65,68,62,64,71,31,62,2,1,Left,,22-25,
+222540,11048,Nikolaos Vergos,30,Greece,A-League,Melb. Victory,ST,65,71,64,48,61,32,66,4,2,Right,,30+,57.0
+231634,11237,Tomislav Uskok,34,Australia,A-League,Macarthur FC,CB,65,47,35,47,49,61,83,3,2,Right,,30+,53.7
+203264,11262,Scott Wootton,34,England,A-League,Perth Glory,CB,65,43,29,47,53,64,81,3,2,Right,,30+,52.8
+198624,11268,Joe Shaughnessy,33,Republic of Ireland,A-League,Newcastle Jets,CB,65,59,23,47,51,66,70,4,2,Right,,30+,52.7
+199218,11294,Brendan Hamill,33,Australia,A-League,Melb. Victory,CB,65,35,41,51,49,66,68,3,2,Right,,30+,51.7
+231131,11335,James McGarry,27,New Zealand,A-League,Brisbane Roar,LB,64,82,59,58,67,55,75,4,3,Left,['LM'],26-29,66.0
+237705,11358,Dylan Pierias,26,Australia,A-League,Adelaide United,RB,64,88,50,53,67,57,69,3,2,Right,['RM'],26-29,64.0
+242108,11359,Kosta Grozos,25,Australia,A-League,Newcastle Jets,CB,64,68,53,63,62,63,75,3,2,Right,"['CM', 'CDM']",22-25,64.0
+242764,11372,Hideki Ishige,31,Japan,A-League,Well. Phoenix,ST,64,73,64,61,68,45,71,3,3,Right,"['RM', 'LM', 'CAM']",30+,63.7
+209361,11387,Tim Payne,32,New Zealand,A-League,Well. Phoenix,RB,64,68,56,58,57,60,80,3,2,Right,['RM'],30+,63.2
+231065,11390,Logan Rogerson,27,New Zealand,A-League,Auckland FC,RM,64,79,63,56,63,46,72,3,3,Right,"['CAM', 'RW']",26-29,63.2
+257490,11394,Lucas Mauragis,24,Australia,A-League,Central Coast,LB,64,77,50,58,63,57,74,3,2,Left,['LM'],22-25,63.2
+202678,11432,Josh Risdon,33,Australia,A-League,Perth Glory,RB,64,71,48,58,61,60,76,3,3,Right,"['LB', 'RM']",30+,62.3
+252698,11511,Jordan Courtney-Perkins,23,Australia,A-League,Sydney FC,LB,64,72,44,55,60,62,76,3,2,Left,"['CB', 'LM']",22-25,61.5
+263786,11566,Nicholas Pennington,27,Australia,A-League,Perth Glory,CM,64,55,54,62,61,61,73,2,2,Right,['CDM'],26-29,61.0
+224297,11640,Alex Gersbach,28,Australia,A-League,WS Wanderers,LB,64,81,35,55,61,57,72,2,2,Left,['LM'],26-29,60.2
+277549,11656,Clayton Taylor,22,Australia,A-League,Newcastle Jets,LM,64,83,58,52,68,36,64,5,3,Right,"['CAM', 'LW']",22-25,60.2
+238360,11923,Lachlan Wales,28,Australia,A-League,Perth Glory,RM,64,80,53,59,61,24,69,2,3,Right,"['ST', 'LM', 'RW']",26-29,57.7
+275134,11988,Jordi Valadon,23,Australia,A-League,Melb. Victory,CDM,64,62,50,57,62,62,50,3,2,Right,['CM'],22-25,57.2
+240710,12006,Gabriel Cléùr,28,Australia,A-League,WS Wanderers,RB,64,61,41,54,57,61,67,2,2,Right,['CB'],26-29,56.8
+227847,12061,Manjrekar James,32,Canada,A-League,Well. Phoenix,CB,64,61,40,49,48,62,77,2,2,Right,,30+,56.2
+273529,12182,Alex Bonetig,23,Australia,A-League,WS Wanderers,CB,64,58,29,50,53,62,75,3,2,Left,,22-25,54.5
+253153,12339,Sam Sutton,24,New Zealand,A-League,Perth Glory,LB,63,79,57,62,65,55,71,3,3,Left,['LM'],22-25,64.8
+225757,12341,Max Burgess,31,Australia,A-League,Newcastle Jets,CAM,63,81,60,62,62,50,73,4,3,Left,"['LM', 'CM']",30+,64.7
+220819,12354,Ryan Kitto,31,Australia,A-League,Adelaide United,LB,63,78,55,58,62,54,74,3,2,Left,['LM'],30+,63.5
+242056,12355,Callum Timmins,26,Australia,A-League,Perth Glory,CM,63,68,61,60,61,57,74,3,2,Right,"['CDM', 'ST']",26-29,63.5
+240632,12399,Antonee Burke-Gilroy,28,Australia,A-League,Brisbane Roar,LB,63,82,50,57,63,54,67,4,2,Right,"['RB', 'RM']",26-29,62.2
+221425,12410,Kazuki Nagasawa,34,Japan,A-League,Well. Phoenix,CM,63,69,60,62,63,53,65,4,3,Right,['CDM'],30+,62.0
+232963,12455,Takeshi Kanamori,31,Japan,A-League,Melbourne City,RM,63,90,57,52,67,30,71,3,3,Right,"['ST', 'LM', 'RW']",30+,61.2
+188278,12514,Mark Birighitti,34,Australia,A-League,Perth Glory,GK,63,66,59,63,65,48,61,4,1,Right,,30+,
+252468,12518,Al Hassan Touré,25,Australia,A-League,Sydney FC,RM,63,85,59,56,63,31,68,3,4,Right,"['LM', 'ST', 'RW']",22-25,60.3
+260617,12622,Mark Natta,23,Australia,A-League,Newcastle Jets,CB,63,76,33,49,56,60,81,3,2,Left,['LB'],22-25,59.2
+238170,12700,Christian Theoharous,26,Australia,A-League,Central Coast,LM,63,84,57,56,65,43,45,2,3,Left,"['RM', 'LB']",26-29,58.3
+225993,12721,Oliver Sail,30,New Zealand,A-League,Auckland FC,GK,63,64,62,50,63,49,61,1,1,Right,,30+,
+242840,12852,Aleksandar Šušnjar,30,Australia,A-League,Newcastle Jets,CB,63,57,43,53,54,60,75,3,2,Left,['LB'],30+,57.0
+246005,12853,Joel King,25,Australia,A-League,Sydney FC,LB,63,69,33,55,58,56,71,3,2,Left,"['CB', 'RB', 'LM']",22-25,57.0
+277522,12903,Nathan Paull,22,Australia,A-League,Central Coast,CB,63,66,34,49,53,60,78,4,2,Left,['LB'],22-25,56.7
+264070,12966,Alexandar Popović,23,Australia,A-League,Sydney FC,CB,63,67,32,48,53,60,76,3,2,Right,['RB'],22-25,56.0
+277524,12969,Anthony Pantazopoulos,22,Australia,A-League,WS Wanderers,CB,63,64,36,49,50,60,77,4,2,Right,"['LB', 'RB']",22-25,56.0
+199266,13000,Ji Dong Won,34,Korea Republic,A-League,Macarthur FC,ST,63,46,63,56,60,40,68,4,2,Right,"['LM', 'LW', 'CAM']",30+,55.5
+227040,13102,Sam Cosgrove,29,England,A-League,Auckland FC,ST,63,52,64,49,56,27,77,3,2,Right,,26-29,54.2
+273526,13170,Panagiotis Kikianis,21,Australia,A-League,Adelaide United,CB,63,58,31,46,48,62,72,2,2,Right,,21 or under,52.8
+208543,13262,Cameron Howieson,31,New Zealand,A-League,Auckland FC,CM,62,70,61,62,62,54,69,3,3,Left,['ST'],30+,63.0
+246195,13318,Callan Elliot,26,New Zealand,A-League,Auckland FC,RB,62,76,48,56,63,55,67,2,2,Right,['RM'],26-29,60.8
+228171,13331,Christopher Ikonomidis,30,Australia,A-League,Macarthur FC,RM,62,74,60,58,64,43,64,4,3,Right,"['ST', 'RW']",30+,60.5
+260004,13332,Callum Talbot,25,Australia,A-League,Macarthur FC,RB,62,79,42,56,63,54,69,4,3,Right,"['LB', 'LM']",22-25,60.5
+213094,13337,Storm Roux,33,New Zealand,A-League,Central Coast,RB,62,70,45,56,59,57,75,3,2,Right,['RM'],30+,60.3
+256392,13353,Alou Kuol,24,Australia,A-League,WS Wanderers,ST,62,78,60,44,56,44,79,3,2,Right,,22-25,60.2
+242240,13361,Louis D'Arrigo,24,Australia,A-League,Melb. Victory,CDM,62,71,47,60,62,58,62,3,2,Right,['CM'],22-25,60.0
+264065,13388,Alessandro Lopane,21,Australia,A-League,Melbourne City,CDM,62,69,52,58,65,58,56,2,2,Right,"['RM', 'LM', 'RW']",21 or under,59.7
+210368,13395,Jack Duncan,32,Australia,A-League,Melb. Victory,GK,62,64,63,59,61,51,59,3,1,Right,,30+,
+276249,13414,Lachlan Bayliss,23,New Zealand,A-League,Newcastle Jets,CAM,62,74,56,56,64,50,56,4,3,Right,"['CM', 'RM']",22-25,59.3
+260533,13499,Joshua Rawlins,21,Australia,A-League,Melb. Victory,RB,62,72,40,54,59,56,69,3,2,Right,"['CB', 'RM']",21 or under,58.3
+240580,13565,Ben Folami,26,Australia,A-League,Adelaide United,LM,62,81,53,54,66,25,66,4,3,Right,"['RM', 'LW']",26-29,57.5
+252699,13568,Macklin Freke,27,Australia,A-League,Brisbane Roar,GK,62,62,61,60,62,40,60,2,1,Right,,26-29,
+268416,13571,Brad Tapp,25,Australia,A-League,Central Coast,CDM,62,64,47,56,59,61,58,3,2,Right,"['CM', 'CB']",22-25,57.5
+260538,13592,Cameron Cook,24,Australia,A-League,Perth Glory,GK,62,62,61,64,64,30,63,3,1,Right,,22-25,
+250895,13656,Jay Barnett,25,Australia,A-League,Adelaide United,CDM,62,61,43,56,60,58,62,4,2,Right,"['CM', 'CB']",22-25,56.7
+259655,13748,Phillip Čančar,24,Australia,A-League,WS Wanderers,CB,62,66,32,48,50,59,78,3,2,Right,"['RB', 'RM']",22-25,55.5
+274055,13770,Isaac Hughes,22,New Zealand,A-League,Well. Phoenix,CB,62,59,39,49,52,61,72,3,2,Right,,22-25,55.3
+193177,14048,Adama Traoré,36,Côte d'Ivoire,A-League,Melb. Victory,LB,61,74,54,56,61,56,75,3,2,Left,['LM'],30+,62.7
+75112,14073,Corban Piper,23,New Zealand,A-League,Well. Phoenix,RB,61,75,50,51,52,55,83,2,2,Right,"['CB', 'RM']",22-25,61.0
+209359,14083,Brandon O'Neill,31,Australia,A-League,Perth Glory,CM,61,56,59,61,62,59,67,4,3,Right,['CDM'],30+,60.7
+260176,14098,Mohamed Al-Taay,25,Iraq,A-League,WS Wanderers,CDM,61,73,51,54,61,57,66,3,2,Right,"['CM', 'CAM']",22-25,60.3
+203309,14103,Ben Halloran,33,Australia,A-League,Brisbane Roar,RM,61,76,57,56,60,41,71,2,3,Right,"['LM', 'CAM', 'RW']",30+,60.2
+225053,14115,Liam Rose,28,Australia,A-League,Macarthur FC,CDM,61,71,46,56,60,57,70,3,2,Right,"['CM', 'RB']",26-29,60.0
+259476,14126,Michael Ruhs,23,Australia,A-League,Brisbane Roar,ST,61,80,59,49,60,40,71,3,2,Right,"['LM', 'RM', 'LW']",22-25,59.8
+248227,14137,Carlo Armiento,26,Australia,A-League,Well. Phoenix,LM,61,73,61,58,64,43,58,3,3,Left,['LW'],26-29,59.5
+247836,14157,Daniel Wilmering,25,Australia,A-League,Newcastle Jets,LM,61,72,46,58,60,54,64,3,2,Left,"['LB', 'LW']",22-25,59.0
+265581,14171,Harry Steele,23,Australia,A-League,Central Coast,CM,61,65,49,58,60,57,64,4,2,Left,['CDM'],22-25,58.8
+278838,14175,Dylan Scicluna,21,Malta,A-League,WS Wanderers,CM,61,75,43,61,63,57,54,4,2,Right,"['CDM', 'RB', 'CAM']",21 or under,58.8
+181468,14194,Dean Bouzanis,35,Australia,A-League,Brisbane Roar,GK,61,61,59,63,61,47,60,3,1,Right,,30+,
+216795,14268,Chris Long,31,England,A-League,Brisbane Roar,ST,61,76,61,52,60,31,64,3,3,Right,"['LM', 'LW']",30+,57.3
+183244,14293,Andrew Redmayne,37,Australia,A-League,Central Coast,GK,61,59,60,62,60,41,60,2,1,Right,,30+,
+213281,14345,Paulo Retre,33,Australia,A-League,Well. Phoenix,CDM,61,44,49,58,62,57,68,3,2,Right,"['CM', 'CB']",30+,56.3
+264072,14393,Bernardo Oliveira,22,Australia,A-League,Macarthur FC,LM,61,80,55,52,66,35,47,4,3,Left,"['RM', 'LW']",22-25,55.8
+274006,14409,Marlee François,23,Australia,A-League,Auckland FC,LM,61,75,55,53,66,28,57,2,3,Right,"['RM', 'LW']",22-25,55.7
+252477,14417,Joshua Oluwayemi,25,Nigeria,A-League,Well. Phoenix,GK,61,59,57,59,64,36,58,3,1,Right,,22-25,
+243427,14501,Ryan Edmondson,24,England,A-League,Central Coast,ST,61,57,61,47,56,32,73,3,2,Right,,22-25,54.3
+192250,14706,Matthew Jurman,36,Australia,A-League,Macarthur FC,CB,61,37,32,46,42,58,77,3,2,Left,,30+,48.7
+257348,14757,Taras Gomulka,24,Australia,A-League,Perth Glory,CM,60,65,52,60,60,57,65,3,2,Right,['CDM'],22-25,59.8
+236342,14768,Nikola Mileusnić,32,Australia,A-League,Well. Phoenix,RW,60,81,57,55,58,42,63,4,3,Right,"['ST', 'RM']",30+,59.3
+260630,14772,Jonny Yull,21,Australia,A-League,Adelaide United,CM,60,69,56,59,65,49,58,4,3,Right,"['CDM', 'RM', 'CAM']",21 or under,59.3
+266148,14775,Corey Hollman,22,Australia,A-League,Sydney FC,CDM,60,71,50,59,63,53,60,3,2,Right,['CM'],22-25,59.3
+266629,14776,Sam Klein,22,Australia,A-League,Brisbane Roar,CM,60,66,51,54,59,54,72,3,2,Right,['CDM'],22-25,59.3
+260536,14817,Trent Ostler,23,Australia,A-League,Perth Glory,RM,60,70,56,52,60,50,61,3,2,Right,"['RB', 'RW']",22-25,58.2
+256324,14829,Jarrod Carluccio,25,Australia,A-League,WS Wanderers,RM,60,81,51,52,62,42,59,3,3,Left,"['LM', 'RB']",22-25,57.8
+272323,14830,Jaiden Kucharski,23,Australia,A-League,Perth Glory,ST,60,76,60,49,61,35,66,3,2,Right,"['CAM', 'LM']",22-25,57.8
+279186,14844,Austin Ayoubi,24,Australia,A-League,Adelaide United,LM,60,66,55,56,62,42,64,3,2,Right,"['RM', 'LW']",22-25,57.5
+279201,14853,Matt Sheridan,21,New Zealand,A-League,Well. Phoenix,RB,60,74,37,54,53,54,72,2,2,Right,"['CM', 'CB']",21 or under,57.3
+242057,14864,Walter Scott,26,Australia,A-League,Macarthur FC,LB,60,73,40,53,58,52,67,4,2,Left,"['LM', 'RM']",26-29,57.2
+272571,14869,Luka Jovanović,20,Australia,A-League,Adelaide United,ST,60,75,58,50,61,32,67,4,2,Right,"['CAM', 'CM']",21 or under,57.2
+73092,14894,Jesse Randall,23,New Zealand,A-League,Auckland FC,LM,60,78,58,53,61,31,59,2,3,Right,"['LW', 'ST']",22-25,56.7
+272737,14904,Aidan Simmons,22,Australia,A-League,WS Wanderers,RB,60,76,44,53,63,56,48,3,3,Right,['RM'],22-25,56.7
+231172,14940,Jordan Holmes,28,Australia,A-League,WS Wanderers,GK,60,59,59,61,60,38,59,3,1,Right,,26-29,
+237375,14941,Harrison Sawyer,29,Australia,A-League,Macarthur FC,ST,60,64,58,45,55,34,80,3,2,Right,"['RM', 'RW']",26-29,56.0
+235860,14977,Michael Woud,27,New Zealand,A-League,Auckland FC,GK,60,65,50,60,63,39,56,2,1,Left,,26-29,
+262434,15043,Harrison Devenish-Meares,29,Australia,A-League,Sydney FC,GK,60,60,59,58,56,33,61,3,1,Right,,26-29,
+262557,15062,Max Caputo,20,Australia,A-League,Melbourne City,ST,60,69,58,50,55,30,63,3,2,Right,,21 or under,54.2
+262722,15063,Hosine Bility,24,Australia,A-League,Brisbane Roar,CB,60,72,30,44,49,56,74,4,2,Right,,22-25,54.2
+231678,15246,Ruon Tongyik,29,Australia,A-League,WS Wanderers,CB,60,62,26,39,54,57,69,2,2,Right,,26-29,51.2
+225051,15292,Ben Warland,29,Australia,A-League,Brisbane Roar,CB,60,35,34,45,46,59,75,2,2,Left,,26-29,49.0
+276627,15360,Franco Lino,20,Australia,A-League,Melb. Victory,LB,59,88,42,41,56,51,68,2,2,Left,"['CB', 'LM']",21 or under,57.7
+275267,15398,Miguel Di Pizio,20,Australia,A-League,Central Coast,CAM,59,68,55,56,61,43,58,3,3,Left,"['RM', 'LM', 'CM']",21 or under,56.8
+259629,15408,Patrick Wood,23,Australia,A-League,Sydney FC,ST,59,77,57,51,56,29,69,1,2,Right,"['CAM', 'CM']",22-25,56.5
+277473,15412,Jing Reec,22,Australia,A-League,Melb. Victory,ST,59,82,58,47,57,32,63,3,3,Left,"['LM', 'LW']",22-25,56.5
+247889,15480,Yaya Dukuly,23,Australia,A-League,Adelaide United,LM,59,85,49,48,63,31,54,2,3,Left,"['RM', 'LW']",22-25,55.0
+276461,15486,Lukas Kelly-Heald,21,New Zealand,A-League,Well. Phoenix,LB,59,63,41,51,53,56,66,3,2,Left,"['CM', 'LM', 'CDM']",21 or under,55.0
+75033,15559,Ben Gibson,23,Australia,A-League,Newcastle Jets,ST,59,77,54,48,54,27,61,2,2,Right,"['LM', 'LW']",22-25,53.5
+245425,15563,Noah James,25,Australia,A-League,Newcastle Jets,GK,59,59,58,55,64,26,59,3,1,Right,,22-25,
+75391,15580,Santos,24,Brazil,A-League,Melb. Victory,RM,59,73,58,54,60,23,52,3,2,Right,"['LM', 'RW']",22-25,53.3
+277571,15591,Dylan Peraić-Cullen,19,Australia,A-League,Central Coast,GK,59,61,55,54,61,32,56,2,1,Right,,21 or under,
+70177,15609,Aydan Hammond,22,Australia,A-League,WS Wanderers,RW,59,84,54,52,58,22,47,2,2,Right,"['LW', 'CAM', 'RM']",22-25,52.8
+75145,15704,Lucas Herrington,18,Australia,A-League,Brisbane Roar,CB,59,65,32,42,45,57,66,3,2,Right,,21 or under,51.2
+264063,15833,Alex Badolato,21,Australia,A-League,Newcastle Jets,ST,58,69,55,50,64,42,61,3,3,Right,"['CM', 'CAM']",21 or under,56.8
+278233,15845,Harry Politidis,23,Australia,A-League,Macarthur FC,LM,58,73,44,51,60,48,63,3,2,Left,"['LB', 'LW']",22-25,56.5
+75140,15898,Jacob Brazete,20,Australia,A-League,Brisbane Roar,LM,58,76,51,53,61,33,56,3,2,Right,"['CM', 'LW']",21 or under,55.0
+77175,15955,Harry Crawford,19,Australia,A-League,Adelaide United,RM,58,72,56,52,59,46,40,3,2,Right,"['RB', 'RW']",21 or under,54.2
+73102,15967,Liam Gillion,23,New Zealand,A-League,Auckland FC,LM,58,83,50,43,65,24,58,3,2,Right,"['RM', 'LW']",22-25,53.8
+239019,16019,James Delianov,26,Australia,A-League,Newcastle Jets,GK,58,58,57,59,58,30,55,3,1,Right,,26-29,
+264068,16023,Ethan Cox,22,Australia,A-League,Adelaide United,GK,58,59,57,55,58,33,55,2,1,Right,,22-25,
+279014,16103,Alby Kelly-Heald,21,New Zealand,A-League,Well. Phoenix,GK,58,61,56,58,54,24,55,3,1,Right,,21 or under,
+271971,16216,Aaron Gurd,24,Australia,A-League,Sydney FC,CB,58,48,29,38,41,57,69,2,2,Right,,22-25,47.0
+272708,16227,Panashe Madanha,21,Australia,A-League,Adelaide United,RB,57,84,50,50,58,48,72,3,3,Right,['RM'],21 or under,60.3
+76117,16229,Luke Brooke-Smith,17,New Zealand,A-League,Well. Phoenix,RW,57,78,57,49,58,40,72,2,2,Right,"['LW', 'RM']",21 or under,59.0
+277324,16230,Fin Roa Conchie,22,New Zealand,A-League,Well. Phoenix,CM,57,67,46,57,57,51,73,3,2,Right,,22-25,58.5
+70063,16261,Bailey Brandtman,20,Australia,A-League,Central Coast,ST,57,71,56,53,59,39,59,3,2,Left,"['RM', 'LM']",21 or under,56.2
+73096,16294,Haine Eames,18,Australia,A-League,Central Coast,CM,57,63,51,57,58,46,54,3,2,Right,"['LM', 'LW']",21 or under,54.8
+255208,16305,Dakota Ochsenham,26,Australia,A-League,Melbourne City,GK,57,58,60,62,58,34,56,2,1,Right,,26-29,
+253752,16315,Kristian Popović,24,Australia,A-League,Macarthur FC,CDM,57,60,43,52,55,52,64,3,2,Right,['CM'],22-25,54.3
+276057,16369,Zane Schreiber,20,Australia,A-League,Melbourne City,CDM,57,66,38,50,52,55,57,3,2,Left,['CM'],21 or under,53.0
+73661,16372,Medin Memeti,18,Australia,A-League,Melbourne City,ST,57,68,59,42,54,41,53,2,2,Right,"['CAM', 'CM']",21 or under,52.8
+272355,16384,Diesel Herrington,21,Australia,A-League,Central Coast,CB,57,69,34,44,46,55,68,3,2,Right,['RB'],21 or under,52.7
+71482,16396,Tiago Quintal,19,Australia,A-League,Sydney FC,CAM,57,79,48,50,62,30,45,2,2,Left,"['ST', 'CM']",21 or under,52.3
+70515,16506,Andriano Lebib,20,Australia,A-League,Perth Glory,CB,57,90,24,35,36,56,60,3,2,Right,,21 or under,50.2
+260724,16562,Marcus Ferkranus,22,Australia,A-League,Brisbane Roar,CB,57,57,29,40,43,56,66,2,2,Right,,22-25,48.5
+253447,16606,Luke Duzel,24,Australia,A-League,Adelaide United,CM,56,66,49,58,56,48,62,3,2,Right,"['CAM', 'CDM']",22-25,56.5
+75510,16673,Ryan White,21,Australia,A-League,Adelaide United,CAM,56,66,48,53,54,44,56,2,2,Right,"['CDM', 'CM']",21 or under,53.5
+272461,16681,Rhys Youlley,21,Australia,A-League,Sydney FC,CAM,56,63,51,52,61,42,51,3,3,Right,"['CM', 'ST']",21 or under,53.3
+73658,16684,Frans Deli,20,Australia,A-League,Macarthur FC,CDM,56,64,43,51,57,51,53,3,2,Right,['CM'],21 or under,53.2
+276656,16705,Zac De Jesus,20,Australia,A-League,Sydney FC,RB,56,76,28,47,54,51,59,3,2,Right,['RM'],21 or under,52.5
+257892,16728,Adam Pavlešić,23,Australia,A-League,Central Coast,GK,56,54,56,53,58,35,55,2,1,Right,,22-25,
+279501,16779,Justin Vidić,21,Australia,A-League,Brisbane Roar,ST,56,64,55,43,50,30,63,2,3,Right,,21 or under,50.8
+70066,16800,Gabriel Sloane-Rodrigues,18,New Zealand,A-League,Well. Phoenix,LW,56,72,50,46,65,21,47,3,2,Right,"['RW', 'LM']",21 or under,50.2
+74983,16801,Lawrence Wong,18,Australia,A-League,Melbourne City,CAM,56,62,45,52,60,30,52,2,2,Left,"['ST', 'CM']",21 or under,50.2
+278224,16822,Wataru Kamijo,19,Australia,A-League,Sydney FC,CDM,56,66,39,51,52,54,37,3,2,Right,['CM'],21 or under,49.8
+70518,16875,Zach Lisolajski,20,Australia,A-League,Perth Glory,LB,56,61,25,37,44,57,62,3,2,Left,"['CB', 'LM']",21 or under,47.7
+277438,16897,Kaelan Majekodunmi,22,Australia,A-League,Perth Glory,CB,56,57,29,31,38,55,63,3,2,Right,,22-25,45.5
+270121,16961,Nathanael Blair,22,Australia,A-League,Perth Glory,ST,55,83,51,36,50,28,69,3,2,Right,,22-25,52.8
+74787,16963,Dean Bosnjak,19,Australia,A-League,Macarthur FC,RM,55,72,53,47,54,31,59,3,2,Right,"['ST', 'RW']",21 or under,52.7
+276840,16991,Nathan Amanatidis,20,Australia,A-League,Brisbane Roar,LM,55,76,51,44,61,28,50,4,2,Right,"['CAM', 'ST', 'LW']",21 or under,51.7
+276845,16992,Alex Robinson,21,Australia,A-League,Macarthur FC,GK,55,55,54,54,57,37,53,2,1,Right,,21 or under,
+274518,17001,Matthew Scarcella,22,Australia,A-League,Sydney FC,CM,55,63,44,52,62,48,40,3,2,Right,['CAM'],22-25,51.5
+279198,17002,Benjamin Mazzeo,20,Australia,A-League,Melbourne City,RM,55,75,48,45,57,33,51,3,2,Right,['RW'],21 or under,51.5
+274526,17027,Emin Durakovic,20,Australia,A-League,Melbourne City,LM,55,63,50,52,56,40,42,2,2,Left,"['CM', 'LW']",21 or under,50.5
+73940,17037,Joshua Damevski,20,Australia,A-League,Macarthur FC,CB,55,62,32,43,49,53,62,3,2,Right,['RB'],21 or under,50.2
+75454,17064,Kavian Rahmani,19,Australia,A-League,Melbourne City,LM,55,67,54,51,54,24,47,2,2,Right,"['CAM', 'LW']",21 or under,49.5
+73108,17070,Adam Bugarija,21,Australia,A-League,Perth Glory,CAM,55,60,49,53,56,34,44,3,3,Right,"['ST', 'CM']",21 or under,49.3
+276622,17108,Joshua Inserra,21,Australia,A-League,Melb. Victory,RB,55,56,25,44,45,54,57,2,2,Right,"['CB', 'RM']",21 or under,46.8
+278249,17174,Luke Supyk,20,New Zealand,A-League,Well. Phoenix,ST,54,76,51,43,52,29,58,2,2,Right,,21 or under,51.5
+73109,17175,Abdelelah Faisal,20,Australia,A-League,Central Coast,LM,54,64,53,47,56,32,56,3,2,Right,"['RM', 'LW']",21 or under,51.3
+70799,17186,Joel Anasmo,21,Australia,A-League,Perth Glory,LM,54,74,50,48,51,25,56,3,2,Right,"['ST', 'LW']",21 or under,50.7
+274005,17193,Joel Bertolissio,22,Australia,A-League,Newcastle Jets,RB,54,48,39,52,51,50,63,4,2,Right,"['CDM', 'CB', 'RM']",22-25,50.5
+275871,17197,Arion Sulemani,21,Australia,A-League,Perth Glory,ST,54,68,55,38,50,33,58,3,2,Right,,21 or under,50.3
+264057,17228,James Nieuwenhuizen,22,Australia,A-League,Melbourne City,GK,54,54,53,53,56,28,50,2,1,Right,,22-25,
+278158,17278,Quinn MacNicol,18,Australia,A-League,Brisbane Roar,CAM,54,63,51,49,57,26,33,3,2,Right,['CM'],21 or under,46.5
+71988,17287,Khoa Ngo,20,Australia,A-League,Perth Glory,LM,54,69,49,42,59,18,33,2,2,Right,"['RM', 'LW']",21 or under,45.0
+73104,17293,Adama Coulibaly,21,New Zealand,A-League,Auckland FC,CB,53,75,46,50,55,52,54,3,2,Right,"['CAM', 'RB']",21 or under,55.3
+73659,17310,Oliver Randazzo,20,Australia,A-League,Macarthur FC,CAM,53,66,48,50,56,41,54,3,2,Left,"['CM', 'RM']",21 or under,52.5
+71743,17320,Fabian Talladira,20,Australia,A-League,Adelaide United,CM,53,60,43,53,55,45,52,3,2,Left,"['CDM', 'LB']",21 or under,51.3
+75451,17335,Ivan Ozzi,22,Australia,A-League,Brisbane Roar,ST,53,71,49,38,50,29,66,2,2,Left,,22-25,50.5
+74614,17339,Will Dobson,18,Australia,A-League,Newcastle Jets,RB,53,69,41,53,54,45,39,3,2,Right,"['CM', 'RM']",21 or under,50.2
+73106,17368,Jonty Bidois,21,New Zealand,A-League,Auckland FC,ST,53,72,52,40,49,16,62,2,2,Right,,21 or under,48.5
+73937,17407,Joe Knowles,21,New Zealand,A-League,Auckland FC,GK,53,54,53,51,54,20,51,2,1,Right,,21 or under,
+74757,17408,Tristan Vidackovic,23,Australia,A-League,WS Wanderers,GK,53,53,54,52,50,22,52,1,1,Right,,22-25,
+75141,17459,Pearson Kasawaya,19,Australia,A-League,Brisbane Roar,LB,52,72,40,43,52,45,54,2,2,Left,['LM'],21 or under,51.0
+73110,17463,William Freney,20,Australia,A-League,Perth Glory,LM,52,62,37,50,54,47,53,4,2,Left,"['CM', 'LB']",21 or under,50.5
+73150,17471,Luka Kolić,21,Australia,A-League,Melb. Victory,CM,52,54,51,48,46,45,56,3,2,Right,,21 or under,50.0
+73105,17475,Oliver Middleton,20,New Zealand,A-League,Auckland FC,CM,52,65,33,50,55,46,49,4,2,Right,"['CDM', 'RM']",21 or under,49.7
+72913,17482,Oscar Fryer,19,Australia,A-League,Newcastle Jets,LM,52,68,48,44,56,29,52,3,2,Right,"['RM', 'ST', 'LW']",21 or under,49.5
+78393,17487,Sebastian Despotovski,20,Australia,A-League,Perth Glory,CM,52,45,48,49,48,43,63,3,2,Right,,21 or under,49.3
+71987,17491,Marin France,19,Australia,A-League,Sydney FC,CAM,52,58,46,49,51,37,53,3,3,Right,['CM'],21 or under,49.0
+73103,17492,Finn McKenlay,20,New Zealand,A-League,Auckland FC,CDM,52,49,46,52,49,46,52,3,2,Right,['CM'],21 or under,49.0
+276187,17542,Gus Hoefsloot,20,Australia,A-League,Sydney FC,GK,52,51,50,56,54,22,49,3,1,Right,,21 or under,
+73100,17578,Ben Van Dorssen,20,Australia,A-League,Newcastle Jets,CB,52,53,22,37,37,52,58,2,2,Right,,21 or under,43.2
+71563,17580,Nathan Barrie,19,Australia,A-League,WS Wanderers,CB,52,53,24,26,32,54,64,1,2,Left,,21 or under,42.2
+72164,17584,Lachlan Middleton,20,Australia,A-League,Sydney FC,CM,51,73,33,49,52,52,70,1,2,Right,,21 or under,54.8
+279478,17611,Joe Lacey,18,Australia,A-League,Sydney FC,CAM,51,72,38,49,55,34,47,3,2,Right,['CM'],21 or under,49.2
+73428,17654,Jayden Necovski,18,Australia,A-League,Melbourne City,CB,51,59,23,37,40,49,64,2,2,Right,,21 or under,45.3
+75459,17677,Jayden Smith,18,New Zealand,A-League,Well. Phoenix,CB,51,53,24,37,36,50,60,2,2,Right,,21 or under,43.3
+74982,17711,Peter Antoniou,19,Australia,A-League,Melbourne City,RB,50,54,28,40,52,47,58,2,2,Right,"['LB', 'RM']",21 or under,46.5
+73099,17730,Alex Nunes,19,Australia,A-League,Newcastle Jets,CAM,50,57,42,47,55,34,37,3,2,Right,['CM'],21 or under,45.3
+70513,17752,Harrison Shillington,20,Australia,A-League,Melbourne City,RB,50,55,27,38,48,48,42,3,2,Right,['RM'],21 or under,43.0

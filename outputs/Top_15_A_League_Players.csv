@@ -1,0 +1,16 @@
+ID,Rank,player,age,nation,league,team,position,overall_rating,pace,shooting,passing,dribbling,defending,physical,weak_foot,skill_moves,preferred_foot,alternative_positions,age_group,outfield_attribute_average
+221587,3187,Joe Lolley,33,England,A-League,Sydney FC,RM,73,74,73,71,73,50,63,3,3,Left,"['ST', 'RW']",30+,67.3
+209888,2966,Craig Goodwin,34,Australia,A-League,Adelaide United,LM,73,81,74,72,70,59,73,3,3,Left,"['RM', 'LW']",30+,71.5
+209210,4999,Alex Grant,32,Australia,A-League,Sydney FC,CB,71,53,46,54,56,69,83,3,2,Left,,30+,60.2
+237333,5251,Louis Verstraete,26,Belgium,A-League,Auckland FC,CDM,70,65,58,65,67,64,82,5,3,Right,['CM'],26-29,66.8
+220708,5262,Brandon Borrello,30,Australia,A-League,WS Wanderers,ST,70,73,70,66,71,43,77,4,3,Right,"['RM', 'CAM']",30+,66.7
+216247,5147,Marcel Tisserand,33,Congo DR,A-League,Sydney FC,CB,70,72,58,66,66,68,80,3,3,Right,,30+,68.3
+195033,5111,Mathew Leckie,35,Australia,A-League,Melbourne City,CM,70,79,68,67,74,63,76,4,3,Right,"['LM', 'CAM', 'CDM']",30+,71.2
+208520,5302,Hiroki Sakai,35,Japan,A-League,Auckland FC,RB,70,72,53,65,64,66,77,3,2,Right,['CB'],30+,66.2
+252700,6597,Kai Trewin,24,Australia,A-League,Melbourne City,CB,69,66,43,58,59,69,79,4,2,Right,"['CM', 'CDM']",22-25,62.3
+239458,6148,Bozhidar Kraev,28,Bulgaria,A-League,WS Wanderers,LM,69,71,67,65,70,48,78,4,3,Right,"['CAM', 'RM', 'LW']",26-29,66.5
+237268,6251,Francis de Vries,31,New Zealand,A-League,Auckland FC,LB,69,64,53,67,62,63,83,3,2,Left,['LM'],30+,65.3
+202676,6299,Adam Taggart,32,Australia,A-League,Perth Glory,ST,69,80,68,63,68,38,72,3,3,Right,,30+,64.8
+209886,6069,Anthony Caceres,33,Australia,A-League,Macarthur FC,CAM,69,69,64,69,71,58,75,4,3,Right,"['CDM', 'LM', 'CM']",30+,67.7
+232861,6663,Kota Mizunuma,36,Japan,A-League,Newcastle Jets,RM,69,66,62,71,69,39,63,4,3,Right,['RW'],30+,61.7
+241861,7097,Nathaniel Atkinson,26,Australia,A-League,Melbourne City,RB,68,76,53,62,72,59,77,4,3,Right,['CM'],26-29,66.5
