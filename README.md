@@ -82,7 +82,20 @@ The program creates an `outputs` folder containing cleaned data, summary tables,
 6. Removes duplicate player/team records and rows missing essential values.
 7. Creates age-group categories and an outfield attribute-average field.
 8. Generates CSV summaries and PNG visualisations.
+   
+## Visualisations
 
+### Average FC 26 overall rating by A-League club
+
+![Average FC 26 overall rating by A-League club](outputs/Average_Rating_By_Club.png)
+
+### Perth Glory player ratings
+
+![Perth Glory player ratings](outputs/Perth_Glory_Player_Ratings.png)
+
+### Average FC 26 attributes by A-League position
+
+![Average FC 26 attributes by position](outputs/Average_Attributes_By_Position.png)
 ## Limitations
 
 - FC 26 ratings and attributes are game data, not real-world match-performance data.
