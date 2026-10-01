@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS system files
+.DS_Store
+
+# Original Kaggle dataset files
+EAFC26-Men.csv
+EAFC26.csv
+EAFC26-Women.csv
